@@ -1,4 +1,4 @@
-# CodeLab Data Analysis Project
+# DecodeLab Data Analysis Project
 
 ## Project Overview
 This project demonstrates the complete data analysis process using a single dataset.
