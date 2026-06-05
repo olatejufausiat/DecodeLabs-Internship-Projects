@@ -27,7 +27,3 @@ This project demonstrates the complete data analysis process using a single data
 - Power Pivot
 - Pivot Tables
 - SQL
-
-- Excel
-- SQL
-- Power BI
